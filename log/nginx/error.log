@@ -1,0 +1,39 @@
+2017/04/20 21:26:37 [error] 14#14: *1 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/04/20 21:26:51 [error] 14#14: *1 open() "/usr/share/nginx/html/index.php" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /index.php HTTP/1.1", host: "localhost"
+2017/04/20 21:27:55 [error] 14#14: *1 open() "/usr/share/nginx/html/src" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /src HTTP/1.1", host: "localhost"
+2017/04/20 21:33:06 [error] 14#14: *10 open() "/usr/share/nginx/html/index" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /index HTTP/1.1", host: "localhost"
+2017/04/20 21:33:14 [error] 14#14: *10 open() "/usr/share/nginx/html/index.php" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /index.php HTTP/1.1", host: "localhost"
+2017/04/20 21:42:10 [error] 13#13: *1 open() "/usr/share/nginx/html/index.php" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /index.php HTTP/1.1", host: "localhost"
+2017/04/20 22:10:52 [error] 8#8: *1 open() "/usr/share/nginx/html/index.php" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /index.php HTTP/1.1", host: "localhost"
+2017/04/20 22:12:17 [error] 8#8: *1 open() "/usr/share/nginx/html/index.php" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /index.php HTTP/1.1", host: "localhost"
+2017/04/20 22:13:14 [error] 8#8: *1 open() "/usr/share/nginx/html/test/index.html" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /test/index.html HTTP/1.1", host: "localhost"
+2017/04/20 22:18:12 [emerg] 149#149: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/04/20 22:18:12 [emerg] 149#149: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/04/20 22:18:12 [emerg] 149#149: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/04/20 22:18:12 [emerg] 149#149: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/04/20 22:18:12 [emerg] 149#149: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/04/20 22:18:12 [emerg] 149#149: still could not bind()
+2017/04/20 13:18:54 [emerg] 183#183: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/04/20 13:18:54 [emerg] 183#183: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/04/20 13:18:54 [emerg] 183#183: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/04/20 13:18:54 [emerg] 183#183: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/04/20 13:18:54 [emerg] 183#183: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/04/20 13:18:54 [emerg] 183#183: still could not bind()
+2017/04/20 22:21:42 [error] 143#143: *3 open() "/usr/share/nginx/html/index.php" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /index.php HTTP/1.1", host: "localhost"
+2017/04/20 22:21:42 [error] 143#143: *3 open() "/usr/share/nginx/html/index.php" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /index.php HTTP/1.1", host: "localhost"
+2017/04/20 22:27:25 [alert] 142#142: unlink() "/var/run/nginx.pid" failed (2: No such file or directory)
+2017/04/20 22:39:07 [alert] 75#75: unlink() "/var/run/nginx.pid" failed (2: No such file or directory)
+2017/04/20 23:06:42 [error] 8#8: *9 open() "/usr/share/nginx/html/index.php" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /index.php HTTP/1.1", host: "localhost"
+2017/04/20 23:09:29 [emerg] 125#125: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/04/20 23:09:29 [emerg] 125#125: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/04/20 23:09:29 [emerg] 125#125: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/04/20 23:09:29 [emerg] 125#125: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/04/20 23:09:29 [emerg] 125#125: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/04/20 23:09:29 [emerg] 125#125: still could not bind()
+2017/04/20 23:11:46 [alert] 118#118: unlink() "/var/run/nginx.pid" failed (2: No such file or directory)
+2017/04/20 23:13:08 [error] 143#143: *1 open() "/usr/share/nginx/html/index.php" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /index.php HTTP/1.1", host: "localhost"
+2017/04/20 23:13:24 [error] 143#143: *1 open() "/usr/share/nginx/html/index.php" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /index.php HTTP/1.1", host: "localhost"
+2017/04/20 15:52:08 [error] 54#54: *1 open() "/usr/share/nginx/html/index.php" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /index.php HTTP/1.1", host: "localhost"
+2017/04/20 15:52:10 [error] 54#54: *1 open() "/usr/share/nginx/html/index.php" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /index.php HTTP/1.1", host: "localhost"
+2017/04/20 16:17:03 [error] 46#46: *1 open() "/usr/share/nginx/html/index.php" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /index.php HTTP/1.1", host: "localhost"
+2017/04/20 16:18:08 [error] 46#46: *3 open() "/usr/share/nginx/html/index.php" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /index.php HTTP/1.1", host: "localhost"

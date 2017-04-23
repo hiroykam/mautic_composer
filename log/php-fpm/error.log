@@ -1,0 +1,184 @@
+[19-Apr-2017 16:15:33] NOTICE: fpm is running, pid 14
+[19-Apr-2017 16:15:33] NOTICE: ready to handle connections
+[19-Apr-2017 16:15:34] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[19-Apr-2017 16:15:34] ERROR: FPM initialization failed
+[19-Apr-2017 16:15:36] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[19-Apr-2017 16:15:36] ERROR: FPM initialization failed
+[19-Apr-2017 16:15:39] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[19-Apr-2017 16:15:39] ERROR: FPM initialization failed
+[19-Apr-2017 17:06:04] NOTICE: fpm is running, pid 14
+[19-Apr-2017 17:06:04] NOTICE: ready to handle connections
+[19-Apr-2017 17:06:05] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[19-Apr-2017 17:06:05] ERROR: FPM initialization failed
+[19-Apr-2017 17:06:07] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[19-Apr-2017 17:06:07] ERROR: FPM initialization failed
+[19-Apr-2017 17:06:10] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[19-Apr-2017 17:06:10] ERROR: FPM initialization failed
+[19-Apr-2017 17:12:57] NOTICE: fpm is running, pid 14
+[19-Apr-2017 17:12:57] NOTICE: ready to handle connections
+[19-Apr-2017 17:12:58] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[19-Apr-2017 17:12:58] ERROR: FPM initialization failed
+[19-Apr-2017 17:13:00] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[19-Apr-2017 17:13:00] ERROR: FPM initialization failed
+[19-Apr-2017 17:13:03] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[19-Apr-2017 17:13:03] ERROR: FPM initialization failed
+[19-Apr-2017 19:10:17] NOTICE: fpm is running, pid 14
+[19-Apr-2017 19:10:17] NOTICE: ready to handle connections
+[19-Apr-2017 19:10:18] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[19-Apr-2017 19:10:18] ERROR: FPM initialization failed
+[19-Apr-2017 19:10:21] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[19-Apr-2017 19:10:21] ERROR: FPM initialization failed
+[19-Apr-2017 19:10:24] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[19-Apr-2017 19:10:24] ERROR: FPM initialization failed
+[19-Apr-2017 19:31:35] NOTICE: fpm is running, pid 14
+[19-Apr-2017 19:31:35] NOTICE: ready to handle connections
+[19-Apr-2017 19:31:36] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[19-Apr-2017 19:31:36] ERROR: FPM initialization failed
+[19-Apr-2017 19:31:38] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[19-Apr-2017 19:31:38] ERROR: FPM initialization failed
+[19-Apr-2017 19:31:41] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[19-Apr-2017 19:31:41] ERROR: FPM initialization failed
+[19-Apr-2017 19:41:55] NOTICE: fpm is running, pid 14
+[19-Apr-2017 19:41:55] NOTICE: ready to handle connections
+[19-Apr-2017 19:41:56] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[19-Apr-2017 19:41:56] ERROR: FPM initialization failed
+[19-Apr-2017 19:41:58] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[19-Apr-2017 19:41:58] ERROR: FPM initialization failed
+[19-Apr-2017 19:42:01] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[19-Apr-2017 19:42:01] ERROR: FPM initialization failed
+[19-Apr-2017 19:49:46] NOTICE: fpm is running, pid 14
+[19-Apr-2017 19:49:46] NOTICE: ready to handle connections
+[19-Apr-2017 19:49:47] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[19-Apr-2017 19:49:47] ERROR: FPM initialization failed
+[19-Apr-2017 19:49:49] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[19-Apr-2017 19:49:49] ERROR: FPM initialization failed
+[19-Apr-2017 19:49:52] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[19-Apr-2017 19:49:52] ERROR: FPM initialization failed
+[20-Apr-2017 20:06:29] NOTICE: fpm is running, pid 15
+[20-Apr-2017 20:06:29] NOTICE: ready to handle connections
+[20-Apr-2017 20:06:29] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 20:06:29] ERROR: FPM initialization failed
+[20-Apr-2017 20:06:30] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 20:06:30] ERROR: FPM initialization failed
+[20-Apr-2017 20:06:32] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 20:06:32] ERROR: FPM initialization failed
+[20-Apr-2017 20:06:35] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 20:06:35] ERROR: FPM initialization failed
+[20-Apr-2017 21:41:32] NOTICE: fpm is running, pid 14
+[20-Apr-2017 21:41:32] NOTICE: ready to handle connections
+[20-Apr-2017 21:41:32] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 21:41:32] ERROR: FPM initialization failed
+[20-Apr-2017 21:41:33] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 21:41:33] ERROR: FPM initialization failed
+[20-Apr-2017 21:41:35] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 21:41:35] ERROR: FPM initialization failed
+[20-Apr-2017 21:41:38] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 21:41:38] ERROR: FPM initialization failed
+[20-Apr-2017 21:55:01] NOTICE: fpm is running, pid 15
+[20-Apr-2017 21:55:01] NOTICE: ready to handle connections
+[20-Apr-2017 21:55:02] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 21:55:02] ERROR: FPM initialization failed
+[20-Apr-2017 21:55:04] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 21:55:04] ERROR: FPM initialization failed
+[20-Apr-2017 21:55:07] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 21:55:07] ERROR: FPM initialization failed
+[20-Apr-2017 22:05:24] NOTICE: fpm is running, pid 14
+[20-Apr-2017 22:05:24] NOTICE: ready to handle connections
+[20-Apr-2017 22:05:25] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 22:05:25] ERROR: FPM initialization failed
+[20-Apr-2017 22:05:27] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 22:05:27] ERROR: FPM initialization failed
+[20-Apr-2017 22:05:30] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 22:05:30] ERROR: FPM initialization failed
+[20-Apr-2017 22:11:37] NOTICE: Terminating ...
+[20-Apr-2017 22:11:37] NOTICE: exiting, bye-bye!
+[20-Apr-2017 13:11:41] NOTICE: fpm is running, pid 108
+[20-Apr-2017 13:11:41] NOTICE: ready to handle connections
+[20-Apr-2017 22:30:13] NOTICE: fpm is running, pid 14
+[20-Apr-2017 22:30:13] NOTICE: ready to handle connections
+[20-Apr-2017 22:30:14] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 22:30:14] ERROR: FPM initialization failed
+[20-Apr-2017 22:30:16] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 22:30:16] ERROR: FPM initialization failed
+[20-Apr-2017 22:30:19] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 22:30:19] ERROR: FPM initialization failed
+[20-Apr-2017 22:35:33] NOTICE: fpm is running, pid 14
+[20-Apr-2017 22:35:33] NOTICE: ready to handle connections
+[20-Apr-2017 22:35:34] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 22:35:34] ERROR: FPM initialization failed
+[20-Apr-2017 22:35:36] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 22:35:36] ERROR: FPM initialization failed
+[20-Apr-2017 22:35:39] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 22:35:39] ERROR: FPM initialization failed
+[20-Apr-2017 22:38:32] NOTICE: Terminating ...
+[20-Apr-2017 22:38:32] NOTICE: exiting, bye-bye!
+[20-Apr-2017 22:57:17] NOTICE: fpm is running, pid 14
+[20-Apr-2017 22:57:17] NOTICE: ready to handle connections
+[20-Apr-2017 22:57:17] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 22:57:17] ERROR: FPM initialization failed
+[20-Apr-2017 22:57:18] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 22:57:18] ERROR: FPM initialization failed
+[20-Apr-2017 22:57:20] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 22:57:20] ERROR: FPM initialization failed
+[20-Apr-2017 22:57:23] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 22:57:23] ERROR: FPM initialization failed
+[20-Apr-2017 22:59:59] NOTICE: fpm is running, pid 14
+[20-Apr-2017 22:59:59] NOTICE: ready to handle connections
+[20-Apr-2017 23:00:00] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 23:00:00] ERROR: FPM initialization failed
+[20-Apr-2017 23:00:02] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 23:00:02] ERROR: FPM initialization failed
+[20-Apr-2017 23:00:05] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 23:00:05] ERROR: FPM initialization failed
+[20-Apr-2017 23:01:25] NOTICE: fpm is running, pid 14
+[20-Apr-2017 23:01:25] NOTICE: ready to handle connections
+[20-Apr-2017 23:01:26] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 23:01:26] ERROR: FPM initialization failed
+[20-Apr-2017 23:01:28] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 23:01:28] ERROR: FPM initialization failed
+[20-Apr-2017 23:01:31] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 23:01:31] ERROR: FPM initialization failed
+[20-Apr-2017 23:11:25] NOTICE: Terminating ...
+[20-Apr-2017 23:11:25] NOTICE: exiting, bye-bye!
+[20-Apr-2017 23:13:21] NOTICE: fpm is running, pid 154
+[20-Apr-2017 23:13:21] NOTICE: ready to handle connections
+[20-Apr-2017 23:26:38] NOTICE: fpm is running, pid 14
+[20-Apr-2017 23:26:38] NOTICE: ready to handle connections
+[20-Apr-2017 23:26:39] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 23:26:39] ERROR: FPM initialization failed
+[20-Apr-2017 23:26:42] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 23:26:42] ERROR: FPM initialization failed
+[20-Apr-2017 23:26:45] ERROR: An another FPM instance seems to already listen on /var/run/php-fpm/php-fpm.sock
+[20-Apr-2017 23:26:45] ERROR: FPM initialization failed
+[20-Apr-2017 15:50:58] NOTICE: fpm is running, pid 25
+[20-Apr-2017 15:50:58] NOTICE: ready to handle connections
+[20-Apr-2017 15:52:44] NOTICE: Terminating ...
+[20-Apr-2017 15:52:44] ERROR: unable to read what child say: Bad file descriptor (9)
+[20-Apr-2017 15:52:44] ERROR: unable to read what child say: Bad file descriptor (9)
+[20-Apr-2017 15:52:44] ERROR: unable to read what child say: Bad file descriptor (9)
+[20-Apr-2017 15:52:44] ERROR: unable to read what child say: Bad file descriptor (9)
+[20-Apr-2017 15:52:44] ERROR: unable to read what child say: Bad file descriptor (9)
+[20-Apr-2017 15:52:44] ERROR: unable to read what child say: Bad file descriptor (9)
+[20-Apr-2017 15:52:44] ERROR: unable to read what child say: Bad file descriptor (9)
+[20-Apr-2017 15:52:44] ERROR: unable to read what child say: Bad file descriptor (9)
+[20-Apr-2017 15:52:44] NOTICE: exiting, bye-bye!
+[20-Apr-2017 15:52:45] NOTICE: fpm is running, pid 93
+[20-Apr-2017 15:52:45] NOTICE: ready to handle connections
+[20-Apr-2017 15:55:36] NOTICE: fpm is running, pid 25
+[20-Apr-2017 15:55:36] NOTICE: ready to handle connections
+[20-Apr-2017 16:00:36] NOTICE: fpm is running, pid 25
+[20-Apr-2017 16:00:36] NOTICE: ready to handle connections
+[20-Apr-2017 16:03:59] NOTICE: fpm is running, pid 26
+[20-Apr-2017 16:03:59] NOTICE: ready to handle connections
+[20-Apr-2017 16:16:33] NOTICE: fpm is running, pid 21
+[20-Apr-2017 16:16:33] NOTICE: ready to handle connections
+[23-Apr-2017 09:15:10] NOTICE: fpm is running, pid 25
+[23-Apr-2017 09:15:10] NOTICE: ready to handle connections
+[23-Apr-2017 11:04:40] NOTICE: fpm is running, pid 24
+[23-Apr-2017 11:04:40] NOTICE: ready to handle connections
+[23-Apr-2017 11:48:36] NOTICE: fpm is running, pid 24
+[23-Apr-2017 11:48:36] NOTICE: ready to handle connections
+[23-Apr-2017 11:51:44] NOTICE: fpm is running, pid 24
+[23-Apr-2017 11:51:44] NOTICE: ready to handle connections
+[23-Apr-2017 12:05:21] NOTICE: fpm is running, pid 26
+[23-Apr-2017 12:05:21] NOTICE: ready to handle connections
